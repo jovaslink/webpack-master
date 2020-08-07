@@ -10,7 +10,7 @@ Recostruir modulos de Node
 npm install
 ```
 
-Construit dist
+Construir dist
 
 ```
 npm run build
